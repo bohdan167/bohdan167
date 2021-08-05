@@ -18,12 +18,12 @@
 </summary>
 <br>
 
-<p align="center">
   <a href="https://github.com/bohdan167">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bohdan167&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bohdan167&layout=compact&langs_count=16&theme=dark"/>
-</p>
+    
 </details>
+  
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Haskell" height="40" width="50" src="assets/haskell-original.svg">
   <img align="center" alt="C" height="40" width="50" src="assets/c-original.svg">
@@ -37,7 +37,7 @@
 <div>
   <a href="https://www.instagram.com/bohdan.15/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.facebook.com/bohdan.malanka" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href = "malanka321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto: malanka321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <div>
