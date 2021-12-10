@@ -3,7 +3,7 @@
 -	🎓 I am currently studying at the University of Minho.
 - 💻 I’m currently learning python.
 - 🌐 I’m looking to collaborate on Web/Mobile development.
-- 🦊 🐸 🍜 Anime lover.
+- 🦊 🐸 🍜 Anime.
 - ⚡ Fun fact: The Firefox logo isn't a fox… it's a red panda!
 
 ##
