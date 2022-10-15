@@ -4,7 +4,7 @@
 - 💻 I’m currently learning python.
 - 🌐 I’m looking to collaborate on Web/Mobile development.
 - 🦊 🐸 🍜 Anime.
-- ⚡ Fun fact: The Firefox logo isn't a fox… it's a red panda!
+
 
 ##
 
