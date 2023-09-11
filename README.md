@@ -1,9 +1,6 @@
 <h1> Hello World! I'm Bohdan. <img src="assets/Hi.gif" width="25"></h1>
 
 -	🎓 I am currently studying at the University of Minho.
-- 💻 I’m currently learning python.
-- 🌐 I’m looking to collaborate on Web/Mobile development.
-- 🦊 🐸 🍜 Anime.
 
 
 ##
