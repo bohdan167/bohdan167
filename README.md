@@ -4,8 +4,9 @@
 -	Also currently working on my own <a href="https://bohdan167.github.io/" target="_blank">website</a>.
 
 
-##
 
+
+<!---
 <details open="">
 <summary>
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
@@ -18,6 +19,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bohdan167&layout=compact&langs_count=16&theme=dark"/>
     
 </details>
+--->
     
 ## Tech Stack
 <div style="display: inline_block" align="center"><br>
