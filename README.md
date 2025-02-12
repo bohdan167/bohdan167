@@ -1,6 +1,7 @@
 <h1> Hello World! I'm Bohdan. <img src="assets/Hi.gif" width="25"></h1>
 
--	🎓 I am currently studying at the University of Minho.
+-	🎓 I am currently ending my MSc degee at the University of Minho.
+-	Also currently working on my own <a href="https://bohdan167.github.io/" target="_blank">website</a>.
 
 
 ##
@@ -8,7 +9,7 @@
 <details open="">
 <summary>
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
-  <span> 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 : </span>
+  <span> 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬  </span>
 </summary>
 <br>
 
@@ -18,7 +19,7 @@
     
 </details>
     
-## Languages and Tools:
+## Tech Stack
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Haskell" height="40" width="50" src="assets/haskell-original.svg">
   <img align="center" alt="C" height="40" width="50" src="assets/c-original.svg">
@@ -31,12 +32,6 @@
 </div>
 
 ##
-
-<div>
-  <a href="https://www.instagram.com/bohdan.15/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.facebook.com/bohdan.malanka" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href = "mailto: malanka321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
 
 <div>
   
