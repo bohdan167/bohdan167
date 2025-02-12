@@ -1,7 +1,7 @@
 <h1> Hello World! I'm Bohdan. <img src="assets/Hi.gif" width="25"></h1>
 
 -	🎓 I am currently ending my MSc degee at the University of Minho.
--	Also currently working on my own <a href="https://bohdan167.github.io/" target="_blank">website</a>.
+-	🧑‍💻 Also currently working on my own <a href="https://bohdan167.github.io/" target="_blank">website</a>.
 
 
 
